@@ -1,0 +1,13 @@
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\bin\Debug\PISA_TEST.exe.config
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\bin\Debug\PISA_TEST.exe
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\bin\Debug\PISA_TEST.pdb
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.csprojAssemblyReference.cache
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.TestForm.resources
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.LoginForm.resources
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.MainWindow.resources
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.Properties.Resources.resources
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.csproj.GenerateResource.cache
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.exe
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.pdb
+C:\Users\Чижова\source\repos\PISA_TEST\PISA_TEST\obj\Debug\PISA_TEST.ResultForm.resources
